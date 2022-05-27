@@ -1,4 +1,4 @@
-name: C:\Users\Joshua\capstone_project_1\env
+name: null
 channels:
   - defaults
 dependencies:
@@ -122,4 +122,4 @@ dependencies:
   - xz=5.2.5=h8cc25b3_1
   - zlib=1.2.12=h8cc25b3_2
   - zstd=1.5.2=h19a0ad4_0
-prefix: C:\Users\Joshua\capstone_project_1\env
+
