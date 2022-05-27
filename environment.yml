@@ -1,4 +1,10 @@
-name: null
+name: environment
 channels:
   - defaults
-prefix: C:\Users\Joshua\capstone_project_1
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
