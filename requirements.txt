@@ -3,3 +3,6 @@ matplotlib==3.*
 seaborn==0.8.1
 pandas
 scikit-learn==0.22
+ipywidgets
+pickle
+viola
